@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/home/","tags":"gardenEntry","dgEnableSearch":true}
 ---
 
 
@@ -10,3 +10,5 @@
 
 
 [![Polling](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVu0vGgAm3SWqnfusleyT3l_V49TA3SjX6rQ&usqp=CAU)](https://www.menti.com/al3uns5jhxox)
+
+
