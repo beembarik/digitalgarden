@@ -3,22 +3,6 @@
 ---
 
 
-# this is heading
+# Mushalla Az-Zaitun BBSPJIA
 
-1. `apa saja`
-
-
-# Mengapa perlu belajar tahsin?
-
-___
-
-## Supaya terhindar dari lahn
-
-___
-
-Apa itu lahn?
-lahn adalah kesalahan dalam membaca Al-Qur'an?
-
-___
-2022-12-06
-07:22
+[![Survey](https://www.nicepng.com/png/full/188-1881207_survey-icon-png-circle.png)](https://tally.so/r/wvXD5X)
