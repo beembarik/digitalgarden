@@ -5,7 +5,7 @@
 
 
 
-[![Survey](https://www.nicepng.com/png/full/188-1881207_survey-icon-png-circle.png)](https://tally.so/r/wvXD5X)
+[![Survey](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjt7xKYVz0FAyx-sB-m5mYTW7W0kgqp5PlsQ&usqp=CAU)](https://tally.so/r/wvXD5X)
 
 
 
